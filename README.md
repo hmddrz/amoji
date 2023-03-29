@@ -10,7 +10,7 @@
 </p>
 <h2>Getting Started</h2>
 <p>To get started with Amoji, you need to include the <code>script.js</code> file in your HTML code. You can do this by adding the following line at the bottom of the <code>body</code> tag:</p>
-<pre class="code-block-wrapper"><code class="hljs code-block-body html"><span class="hljs-tag">&lt;<span class="hljs-name">script</span> <span class="hljs-attr">src</span>=<span class="hljs-string">"https://cdn.jsdelivr.net/gh/hushra/amoji@main/script.js"</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">script</span>&gt;</span>
+<pre class="code-block-wrapper"><code class="hljs code-block-body html"><span class="hljs-tag">&lt;<span class="hljs-name">script</span> <span class="hljs-attr">src</span>=<span class="hljs-string">"https://cdn.jsdelivr.net/gh/zhmid/amoji@main/script.js"</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">script</span>&gt;</span>
 </code></pre>
 <p>This script will replace all standard emojis on your website with the corresponding Apple emoji from the Amoji repository.</p>
 <p>now you most call <code>amoji()</code> function to
