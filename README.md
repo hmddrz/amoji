@@ -21,6 +21,5 @@ replace emojis with apple version of them. this function requires two input (ele
 <p>For example, if you want to use the smiling face with open mouth and smiling eyes emoji (😄) on your website, you can simply use the following code:</p>
 <pre class="code-block-wrapper"><code class="hljs code-block-body html"><span class="hljs-tag">&lt;<span class="hljs-name">p</span>&gt;</span>This is a happy emoji 😄<span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
 </code></pre>
-<p>When the webpage loads, the standard emoji code (<code>:smile:</code>) will be replaced by the corresponding Apple emoji from the Amoji repository.</p>
 <h2>Contributing</h2>
 <p>If you would like to contribute to the Amoji repository, please feel free to submit a pull request. We welcome contributions from the community and appreciate any help we can get.</p>
