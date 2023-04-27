@@ -1,12 +1,12 @@
 <h1>Amoji</h1>
-<p>Amoji is a web-based repository of Apple emojis that you can use to replace the standard emojis on your website. The repository supports all of Apple's emojis and can be accessed using the following URL: <a href="https://raw.githubusercontent.com/hushra/amoji/main/emojis/%F0%9F%98%81.png">https://raw.githubusercontent.com/hushra/amoji/main/emojis/😁.png</a>.</p>
+<p>Amoji is a web-based repository of Apple emojis that you can use to replace the standard emojis on your website. The repository supports all of Apple's emojis and can be accessed using the following URL: <a href="https://raw.githubusercontent.com/zhmid/amoji/main/emojis/%F0%9F%98%81.png">https://raw.githubusercontent.com/zhmid/amoji/main/emojis/😁.png</a>.</p>
 <p align="center">
   <br>
-<img src="https://raw.githubusercontent.com/hushra/amoji/main/emojis/😁.png">
-<img src="https://raw.githubusercontent.com/hushra/amoji/main/emojis/😎.png">
-<img src="https://raw.githubusercontent.com/hushra/amoji/main/emojis/🐢.png">
-<img src="https://raw.githubusercontent.com/hushra/amoji/main/emojis/🚀.png">
-<img src="https://raw.githubusercontent.com/hushra/amoji/main/emojis/%F0%9F%98%8D.png">
+<img src="https://raw.githubusercontent.com/zhmid/amoji/main/emojis/😁.png">
+<img src="https://raw.githubusercontent.com/zhmid/amoji/main/emojis/😎.png">
+<img src="https://raw.githubusercontent.com/zhmid/amoji/main/emojis/🐢.png">
+<img src="https://raw.githubusercontent.com/zhmid/amoji/main/emojis/🚀.png">
+<img src="https://raw.githubusercontent.com/zhmid/amoji/main/emojis/%F0%9F%98%8D.png">
 </p>
 <h2>Getting Started</h2>
 <p>To get started with Amoji, you need to include the <code>script.js</code> file in your HTML code. You can do this by adding the following line at the bottom of the <code>body</code> tag:</p>
