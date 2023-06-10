@@ -23,3 +23,5 @@ replace emojis with apple version of them. this function requires two input (ele
 </code></pre>
 <h2>Contributing</h2>
 <p>If you would like to contribute to the Amoji repository, please feel free to submit a pull request. We welcome contributions from the community and appreciate any help we can get.</p>
+
+یه توضیح به زبان خودم هم برم اینکه ایموجی های اپل هم خوشگل ترن ، هم بطور استاندارد توی پیامرسان های هیچوقت به ایموجی های دیفالت مرورگر اعتماد نمیکنن چون سیستم هایی مثل ویندوز ۷ هنوز ۱۰ درصد ایموجی های جدید رو ساپورت نمیکنن ، خب واسه همینه نسخه وب تلگرام ایموجی هاش ایموجی های سیستمی نیستن تا وقتی یکی از ویندوز ۱۰ به ویندوز ۷ پیام فرستاد طرف بفهمه قضیه چه بوده 😂
