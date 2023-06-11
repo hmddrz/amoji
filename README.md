@@ -1,16 +1,16 @@
 <h1>Amoji</h1>
-<p>Amoji is a web-based repository of Apple emojis that you can use to replace the standard emojis on your website. The repository supports all of Apple's emojis and can be accessed using the following URL: <a href="https://raw.githubusercontent.com/hmddrz/amoji/main/emojis/%F0%9F%98%81.png">https://raw.githubusercontent.com/hmddrz/amoji/main/emojis/😁.png</a>.</p>
+<p>Amoji is a web-based repository of Apple emojis that you can use to replace the standard emojis on your website. The repository supports all of Apple's emojis and can be accessed using the following URL: <a href="https://raw.githubusercontent.com/rhmidz/amoji/main/emojis/%F0%9F%98%81.png">https://raw.githubusercontent.com/rhmidz/amoji/main/emojis/😁.png</a>.</p>
 <p align="center">
   <br>
-<img src="https://raw.githubusercontent.com/hmddrz/amoji/main/emojis/😁.png">
-<img src="https://raw.githubusercontent.com/hmddrz/amoji/main/emojis/😎.png">
-<img src="https://raw.githubusercontent.com/hmddrz/amoji/main/emojis/🐢.png">
-<img src="https://raw.githubusercontent.com/hmddrz/amoji/main/emojis/🚀.png">
-<img src="https://raw.githubusercontent.com/hmddrz/amoji/main/emojis/%F0%9F%98%8D.png">
+<img src="https://raw.githubusercontent.com/rhmidz/amoji/main/emojis/😁.png">
+<img src="https://raw.githubusercontent.com/rhmidz/amoji/main/emojis/😎.png">
+<img src="https://raw.githubusercontent.com/rhmidz/amoji/main/emojis/🐢.png">
+<img src="https://raw.githubusercontent.com/rhmidz/amoji/main/emojis/🚀.png">
+<img src="https://raw.githubusercontent.com/rhmidz/amoji/main/emojis/%F0%9F%98%8D.png">
 </p>
 <h2>Getting Started</h2>
 <p>To get started with Amoji, you need to include the <code>script.js</code> file in your HTML code. You can do this by adding the following line at the bottom of the <code>body</code> tag:</p>
-<pre class="code-block-wrapper"><code class="hljs code-block-body html"><span class="hljs-tag">&lt;<span class="hljs-name">script</span> <span class="hljs-attr">src</span>=<span class="hljs-string">"https://cdn.jsdelivr.net/gh/hmddrz/amoji@main/script.js"</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">script</span>&gt;</span>
+<pre class="code-block-wrapper"><code class="hljs code-block-body html"><span class="hljs-tag">&lt;<span class="hljs-name">script</span> <span class="hljs-attr">src</span>=<span class="hljs-string">"https://cdn.jsdelivr.net/gh/rhmidz/amoji@main/script.js"</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">script</span>&gt;</span>
 </code></pre>
 <p>This script will replace all standard emojis on your website with the corresponding Apple emoji from the Amoji repository.</p>
 <p>now you most call <code>amoji()</code> function to
